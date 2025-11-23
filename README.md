@@ -13,6 +13,6 @@ ALSO try These later
 And I used this before
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstuido,blender,figma,gamemakerstuido,unity"/>
+    <img src="https://skillicons.dev/icons?i=androidstuido,blender,figma,gamemakerstudio,unity"/>
   </a>
 </p>
