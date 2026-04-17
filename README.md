@@ -9,13 +9,7 @@ I have used python ,html ,css ,javascript ,typescript programming language and G
 
 ## My github stats
 
-<table>
-  <tr>
-    <td>
-       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirachayaKaew&hide_progress=true)
-    </td>
-    <td>
-      ![Sirachaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirachayaKaew&show_icons=true&theme=transparent)
-    </td>
-  </tr>
-</table>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirachayaKaew&hide_progress=true)
+
+![Sirachaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirachayaKaew&show_icons=true&theme=transparent)
